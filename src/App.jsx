@@ -3,7 +3,6 @@ import Notiflix from 'notiflix';
 import reducer from 'reducer';
 
 import { PhoneBookSection } from './components/PhoneBookSection/PhoneBookSection';
-// import { render } from '@testing-library/react';
 
 export const App = () => {
 
